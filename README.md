@@ -27,44 +27,33 @@
 </p>
 
 
-💬 Programming Languages:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-</p>
-🛠️ Technologies:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000" alt="Postman"/>
+🛠️ Tech Stack
+Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" />
+</div>
+Frameworks & Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react" />
+</div>
+Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48" />
+</div>
+DevOps & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/>
-</p>
+</div>
 📊 Activities:
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongvi1511&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="truongvi1511" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=truongvi1511&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activities" alt="truongvi1511" width="100%"/>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=truongvi1511&theme=github&hide_border=true" alt="truongvi1511" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongvi1511&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="truongvi1511" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=truongvi1511&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activities" alt="truongvi1511" width="45%"/>
+</p>
 🔥 GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongvi1511&theme=default&hide_border=true" alt="truongvi1511"/>
