@@ -4,12 +4,16 @@
 
 <h2 align="center">Hi 👋, I'm Truong Dai Di</h2>
 <p align="center">
-  <h3 align="center">A passionate .NET Backend Developer from Vietnam  </h3>
+  <h3 align="center">A passionate Backend Developer specializing in C# & .NET from Vietnam 🇻🇳</h3>
 </p>
 
+> 🎓 Software Engineering student at [FPT University HCMC](https://fe.edu.vn/) — .NET Specialization.
 > 
+> 🔍 Currently open to **Intern / Fresher** positions in Backend Development.
 
 <br />
+
+![](https://komarev.com/ghpvc/?username=truongvi1511&style=flat-square)
 
 
 
