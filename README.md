@@ -46,9 +46,28 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000" alt="Postman"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/>
+</p>
+📊 Activities:
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongvi1511&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="truongvi1511" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=truongvi1511&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activities" alt="truongvi1511" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongvi1511&theme=default&hide_border=true" alt="truongvi1511"/>
 </p>
 
 
